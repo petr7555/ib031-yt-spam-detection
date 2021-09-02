@@ -1,0 +1,7 @@
+- projít transformace v kagglu https://www.kaggle.com/mohammedakhil/youtube-spam-filter-using-naive-bayes, podívat se, co bych mohl využít
+- co dělá textvectorizer
+- 3 TODOs v 05
+- zkusit větší architekturu pro LSTM (podle https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/bidirectional_lstm_imdb.ipynb#scrollTo=VbdZXBsSEMLL)
+- SelectKBest
+- PCA
+- https://is.muni.cz/auth/el/fi/jaro2021/IB031/um/cviceni/assignment.pdf
